@@ -6,9 +6,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilhermesantos-alt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermesantos-alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermesantos-alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 ###
@@ -75,9 +75,5 @@
 ###
 
 <p align="left">- Atualmente atuo nas áreas de Suporte Help Desk e Gestão de E-commerce  <br>- Formado em Design  <br>- Estou me graduando em Análise e Desenvolvimento de Sistemas  <br>- No momento estou estudando HTML, Java e Kotlin</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Guilhermesantos-alt/Guilhermesantos-alt/output/snake.svg" alt="Snake animation" />
 
 ###
