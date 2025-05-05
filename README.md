@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Guilherme</h2>
+<h2 align="left">Hello World!!</h2>
 
 ###
 
-<div align="center">
+<p align="left">Meu nome é Guilherme, tenho 20 anos e moro em São Paulo. Atualmente trabalho nas áreas de Gestão de E-commerce e Suporte Help Desk. Sou formado em Marketing e apaixonado por tecnologia e inovação. Valorizo a aprendizagem contínua e estou sempre em busca de novas oportunidades para expandir meus conhecimentos. Acredito na importância de construir relacionamentos significativos, tanto no ambiente de trabalho quanto na vida pessoal, e gosto de colaborar com equipes para alcançar resultados relevantes. Meu interesse por tecnologia me impulsiona a acompanhar as tendências do setor, o que me permite trazer inovação e visão atualizada para minhas abordagens profissionais.</p>
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilhermesantos-alt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermesantos-alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -62,11 +66,7 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h2 align="left">About Me:</h2>
+<h2 align="left">Technical Summary</h2>
 
 ###
 
@@ -78,20 +78,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Guilhermesantos-alt/Guilhermesantos-alt/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
