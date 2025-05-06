@@ -77,7 +77,3 @@
 <p align="left">- Atualmente atuo nas áreas de Suporte Help Desk e Gestão de E-commerce  <br>- Formado em Design  <br>- Estou me graduando em Análise e Desenvolvimento de Sistemas  <br>- No momento estou estudando HTML, Java e Kotlin</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Guilhermesantos-alt/Guilhermesantos-alt/output/snake.svg" alt="Snake animation" />
-
-###
