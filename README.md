@@ -76,4 +76,10 @@
 
 <p align="left">- Atualmente atuo nas áreas de Suporte Help Desk e Gestão de E-commerce  <br>- Formado em Design  <br>- Estou me graduando em Análise e Desenvolvimento de Sistemas  <br>- No momento estou estudando HTML, Java e Kotlin</p>
 
-###
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermesantos-alt/guilhermesantos-alt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermesantos-alt/guilhermesantos-alt/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermesantos-alt/guilhermesantos-alt/output/github-contribution-grid-snake.svg">
+</picture>
