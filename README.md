@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme, tenho 20 anos e moro em São Paulo. Atualmente trabalho nas áreas de Gestão de E-commerce e Suporte Help Desk. Sou formado em Marketing e apaixonado por tecnologia e inovação. Valorizo a aprendizagem contínua e estou sempre em busca de novas oportunidades para expandir meus conhecimentos. Acredito na importância de construir relacionamentos significativos, tanto no ambiente de trabalho quanto na vida pessoal, e gosto de colaborar com equipes para alcançar resultados relevantes. Meu interesse por tecnologia me impulsiona a acompanhar as tendências do setor, o que me permite trazer inovação e visão atualizada para minhas abordagens profissionais.</p>
+<p align="left">Desenvolvedor Backend com formação em Análise e Desenvolvimento de Sistemas, focado em integrações entre sistemas, desenvolvimento de APIs e automação de processos. Interessado em arquitetura de software, soluções escaláveis e segurança da informação.</p>
 
 ###
 
