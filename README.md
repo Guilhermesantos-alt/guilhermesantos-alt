@@ -67,7 +67,10 @@
 
 ###
 
-<p align="left">- Atualmente atuo nas áreas de Suporte Help Desk e Gestão de E-commerce  <br>- Formado em Design  <br>- Estou me graduando em Análise e Desenvolvimento de Sistemas  <br>- No momento estou estudando HTML, Java e Kotlin</p>
+<p align="left">- - Formado em Análise e Desenvolvimento de Sistemas (ADS).
+- Cursando pós-graduação em Cybersecurity pela FIAP.
+- Atuação na área de Tecnologia da Informação, com foco em desenvolvimento Backend e integrações entre sistemas.
+- Em constante evolução, aprofundando conhecimentos em desenvolvimento de software, segurança da informação e novas tecnologias.</p>
 
 #
 
