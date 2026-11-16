@@ -7,14 +7,7 @@
 Desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas, com foco em integrações entre sistemas, desenvolvimento de APIs e automação de processos. Atualmente, pós-graduando em Cybersecurity pela FIAP, com interesse em arquitetura de software, soluções escaláveis e segurança da informação.
 </p>
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermesantos-alt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermesantos-alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-###
 
 <h2 align="left">Technologies & Tools</h2>
 
